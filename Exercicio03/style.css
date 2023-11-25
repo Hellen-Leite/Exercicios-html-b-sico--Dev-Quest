@@ -1,0 +1,17 @@
+*{
+    padding:0;
+    margin:0;
+}
+.texto{
+    margin: 40px;
+    padding: 20px;
+    width: 200px
+} /* aqui se chama classe modificadora, uma vez que essa classe diz respeito a propriedades que têm valores iguais nos dois parágrafos, e os outros seletores de classe, usam valores diferentes para cada propriedade de plano de fundo*/
+.paragrafo-padrao{
+    background-color: #F5F5F5;
+   
+}
+.paragrafo-destacado{
+    background-color:#F0CCE2;
+    
+}
